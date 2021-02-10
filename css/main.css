@@ -13,6 +13,10 @@ p {
 h3 {
  font-family:serif
 }
+
+article {color rgb(0,0,255)
+}
+
 /* Flexible Images */
 img {
  max-width: 100%;
