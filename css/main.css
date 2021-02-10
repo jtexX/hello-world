@@ -10,6 +10,9 @@ p {
  font-family:monospace
 }
 
+h3 {
+ font-family:serif
+}
 /* Flexible Images */
 img {
  max-width: 100%;
